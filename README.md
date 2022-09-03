@@ -30,6 +30,8 @@
 📝 I am a Flutter Developer
 🌟 Main languages: Dart &amp; flutter Framework
 </code></pre></div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
   <summary>☎️ contact me</summary>
 <div>
   <samp>
