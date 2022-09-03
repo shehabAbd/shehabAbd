@@ -20,11 +20,16 @@
   
   </p>
   
-
-💻 👋 Hi, I’m Shehab Abdullah
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="shehabAbd@github
+-------------------------
+💻 Hi, I am Shehab Abdullah 
 📝 I am a Flutter Developer
-🌟 Main languages: Dart & flutter Framework
-
+🌟 Main languages: Dart &amp; flutter Framework"><pre class="notranslate"><code>shehabAbd@github
+-------------------------
+💻 Hi, I am Shehab Abdullah 
+📝 I am a Flutter Developer
+🌟 Main languages: Dart &amp; flutter Framework
+</code></pre></div>
   <summary>☎️ contact me</summary>
 <div>
   <samp>
