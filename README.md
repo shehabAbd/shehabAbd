@@ -22,8 +22,11 @@
   
 
 💻 👋 Hi, I’m Shehab Abdullah
+<br>
 📝 I am a Flutter Developer
+<br>
 🌟 Main languages: Dart & flutter Framework
+<br>
 <details>
   <summary>☎️ contact me</summary>
 <div>
