@@ -5,6 +5,10 @@
 <p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41F711&background=FF2D1900&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile+!;I'm+a+Flutter+Developer;Always+try+to+learning+new+things+;And+try+to+improve+My+skills+;I'm+a+hard-working+" alt="Typing SVG" /></a>
 </p>
+<p align="center">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+</p>
 
    <!-- <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
