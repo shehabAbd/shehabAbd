@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shehab Abdullah 👋</h1>
 <h3 align="center">A Flutter developer from Yemen</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41F711&background=FF2D1900&center=true&vCenter=true&width=435&lines=I'm+a+Flutter+Developer;Always+try+to+learning+new+things+;And+try+to+improve+My+skills+;I'm+a+hard-working+)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41F711&background=FF2D1900&center=true&vCenter=true&width=435&lines=I'm+a+Flutter+Developer;Always+try+to+learning+new+things+;And+try+to+improve+My+skills+;I'm+a+hard-working+" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehababd&label=Profile%20views&color=0e75b6&style=flat" alt="shehababd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehababd" alt="shehababd" /></a> </p>
