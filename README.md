@@ -1,13 +1,9 @@
-<h1> Hello I'm a Flutter  Developers   ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello I'm a Flutter  Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 <p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41F711&background=FF2D1900&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile+!;I'm+a+Flutter+Developer;Always+try+to+learning+new+things+;And+try+to+improve+My+skills+;I'm+a+hard-working+" alt="Typing SVG" /></a>
-</p>
-<p align="center">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 </p>
 
    <!-- <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
@@ -34,7 +30,7 @@
 📝 I am a Flutter Developer
 🌟 Main languages: Dart &amp; flutter Framework
 </code></pre></div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 
   <summary>☎️ contact me</summary>
 <div>
