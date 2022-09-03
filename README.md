@@ -1,4 +1,4 @@
-<h1>Hello I'm Shehab Abdullah! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1>Hello I'm Shehab Abdullah ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h2> I'm a Flutter  Developer</h2><p align='center'>
 </p>
 
@@ -45,6 +45,9 @@
     <p align="center">
       <br/>
       <p>
+       <a href="https://www.linkedin.com/in/%D8%B4%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D8%B9%D9%8A-88b21324b/?trk=public-profile-join-page" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
       <a href="https://www.facebook.com/profile.php?id=100023533299524" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
