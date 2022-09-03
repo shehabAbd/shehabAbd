@@ -45,7 +45,7 @@
     <p align="center">
       <br/>
       <p>
-       <a href="https://www.linkedin.com/in/%D8%B4%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D8%B9%D9%8A-88b21324b/?trk=public-profile-join-page" target="blank"><img align="center"
+       <a href="https://www.linkedin.com/in/shehab-abdullah-al-fariee-88b21324b/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://www.facebook.com/profile.php?id=100023533299524" target="blank"><img align="center"
