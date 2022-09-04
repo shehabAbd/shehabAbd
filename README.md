@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Shehab Abdullah ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h2 align="center"> I'm a Flutter  Developer</h2><p align='center'>
 </p>
-
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AF7ED&width=435&lines=Welcome+To+My+GitHub+Profile!;I'm+a+Flutter+Developer+;Always+Try+To+Learning+New+Things+;And+Try+to+Improve+My+skills+;I'm+a+Hard-working+%E2%9A%92+" alt="Typing SVG" /></a>
 </p>
 <p align="center">
