@@ -61,6 +61,7 @@
   </samp>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shehab&AlFariee&show_icons=true&theme=radical)
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
