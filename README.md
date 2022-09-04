@@ -4,11 +4,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AF7ED&width=435&lines=Welcome+To+My+GitHub+Profile!;I'm+a+Flutter+Developer+;Always+Try+To+Learning+New+Things+;And+Try+to+Improve+My+skills+;I'm+a+Hard-working+%E2%9A%92+" alt="Typing SVG" /></a>
 </p>
-<p align="end">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-</p>
 <br/>
 <p align="button">
 
