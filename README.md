@@ -11,6 +11,12 @@
 
 </p>
 
+<p align="center">
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+</p>
+
    <!-- <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>    -->
