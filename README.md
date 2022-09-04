@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 </p>
-
+<br/>
 <p align="center">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -30,7 +30,7 @@
   <p>
   
   </p>
-  
+  <br/>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="shehabAbd@github
 -------------------------
 💻 Hi, I am Shehab Abdullah 
