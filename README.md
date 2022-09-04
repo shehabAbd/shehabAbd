@@ -2,8 +2,7 @@
 <h2 align="center"> I'm a Flutter  Developer</h2><p align='center'>
 </p>
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F00F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile+!;I'm+a+Flutter+Developer+;Always+Try+To+Learning+New+Things+;And+Try+To+Improve+My+Skills+;I'm+a+Hard-working+%E2%9A%92+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70404&width=435&lines=Welcom++To+My+GitHub+Profile+!;I'm+a+Flutter+Developer+;Always+Try+To+Learning+New+Things+;And+Try+To+Improve+My+Skills+;I'm+a+Hard-working+%E2%9A%92+" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"
