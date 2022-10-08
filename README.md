@@ -25,7 +25,7 @@
   
   </p>
   <br/>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="shehabAbd@github
+<div width="500" class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="shehabAbd@github
 -------------------------
 💻 Hi, I am Shehab Abdullah 
 📝 I am a Flutter Developer
