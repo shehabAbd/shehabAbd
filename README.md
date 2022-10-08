@@ -8,7 +8,6 @@
 <br/>
 <p align="center">
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" />
 
 </p>
 
