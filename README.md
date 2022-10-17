@@ -71,7 +71,7 @@
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehabAbd&show_icons=true&theme=radical)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShehabAbd&theme=github-green-purple)](https://git.io/streak-stats)
 
