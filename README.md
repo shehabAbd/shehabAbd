@@ -4,11 +4,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AF7ED&width=435&lines=Welcome+To+My+GitHub+Profile!;I'm+a+Flutter+Developer+;Always+Try+To+Learning+New+Things+;And+Try+to+Improve+My+skills+;I'm+a+Hard-working+%E2%9A%92+" alt="Typing SVG" /></a>
 </p>
-
-<br/>
 <p align="center">
-
-
 </p>
 
    <!-- <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
@@ -24,14 +20,12 @@
   <p>
   
   </p>
-  <br/>
 <div width="500" class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="shehabAbd@github
 -------------------------
 💻 Hi, I am Shehab Abdullah 
 📝 I am a Software Engineer @ Flutter Developer 
 🌟 Main languages: Dart &amp; flutter Framework, python , php">
 <pre class="notranslate"><code>shehabAbd@github
-
 <br/>
 📝 I am a Software Engineer @
 Flutter Developer 
@@ -39,9 +33,6 @@ Flutter Developer
 flutter Framework, python 
 , php
 </pre>
-<br/>
-
-
 <summary><h2 dir="auto"><a id="user-content---connect-with-me-" class="anchor" aria-hidden="true" href="#--connect-with-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> 
   ☎️<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" data-animated-image="" style="max-width: 100%;"></a> Connect with me </h2>
 </summary>
@@ -50,34 +41,28 @@ flutter Framework, python
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
 <a href="https://www.linkedin.com/in/shehab-abdullah-al-fariee-88b21324b/" target="blank">
-<img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/></a>
+<img align="start" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/></a>
 <a href="https://www.facebook.com/profile.php?id=100023533299524" target="blank"><img align="center"    src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
 alt="azzar" height="30"/></a>
-<a href="https://mail.google.com/mail/mu/mp/569/#co?compose=new,to=shhabalryfy206@gmail.com" target="blank"><img align="center"
+<a href="https://mail.google.com/mail/mu/mp/569/#co?compose=new,to=shhabalryfy206@gmail.com" target="blank">
+<img align="end"
 src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
 alt="azzar" height="30"/></a> 
-       <a href="https://wa.me/+967776193536" target="blank"><img align="center"
+<br/>
+       <a href="https://wa.me/+967776193536" target="blank"><img align="start"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
-  <p align="center">
   </samp>
 </div>
 
 <p align="center">
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="410" />
-
 </p>
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShehabAbd&theme=github-green-purple)](https://git.io/streak-stats)
 
-  
-
 </details>
-
-<br/>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)>
  -->
 <!-- 
@@ -86,6 +71,7 @@ alt="azzar" height="30"/></a>
 <!-- <p dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f49ed70e296b58cb7ba39908951264d634bbbd8e6f423d650afbc91a3cd90f25/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6f73616d6130612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/f49ed70e296b58cb7ba39908951264d634bbbd8e6f423d650afbc91a3cd90f25/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6f73616d6130612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c6f63616c653d656e" alt="ShehabAbd" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ShehabAbd&amp;show_icons=true&amp;theme=tokyonight&amp;locale=en" style="max-width: 100%;"></a></p>
 <h2 dir="auto"><a id="user-content--my-skills-" class="anchor" aria-hidden="true" href="#-my-skills-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30" data-animated-image="" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%;"></a> My Skills  -->
 <br>
+<spam>
 </h2><h5 dir="auto"><a id="user-content--programming-languages" class="anchor" aria-hidden="true" href="#-programming-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> Programming Languages</h5>
 <p dir="auto">
 </p><p align="left" dir="auto">
@@ -131,7 +117,7 @@ alt="azzar" height="30"/></a>
 
 
 </p>
-
+</spam>
    <!-- <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>    -->
