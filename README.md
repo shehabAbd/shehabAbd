@@ -23,8 +23,9 @@
 <div width="500" class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="shehabAbd@github
 -------------------------
 💻 Hi, I am Shehab Abdullah 
-📝 I am a Software Engineer @ Flutter Developer 
-🌟 Main languages: Dart &amp; flutter Framework, python , php">
+📝 I am a Software Engineer @ Web Developer @ Desktop Developer
+🌟 Main languages: C++ & C# & Python & Dart & PHP"
+🌟 Main FrameWorks: flutter , Laravel &amp; >
 <pre class="notranslate"><code>shehabAbd@github
 <br/>
 📝 I am a Software Engineer @
